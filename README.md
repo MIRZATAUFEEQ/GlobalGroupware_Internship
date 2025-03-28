@@ -22,4 +22,10 @@ This project is a React-based user management application built with Vite. It in
    ```sh
    npm run dev
 4. **Access the App: Open your browser at:**
+   [http://localhost:5173](http://localhost:5173)
+5. **Deployment**
+   -**The project is hosted on a free server.
+   -**Access the live demo here: []
+6. **Contributing:**
+   -**Feel free to fork the repository, create a new branch, and submit a pull request with your changes.
    
