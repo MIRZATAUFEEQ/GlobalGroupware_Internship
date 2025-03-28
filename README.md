@@ -15,3 +15,11 @@ This project is a React-based user management application built with Vite. It in
    ```sh
    git clone https://github.com/MIRZATAUFEEQ/GlobalGroupware_Internship.git
    cd GlobalGroupware_Internship
+2. **Install Dependencies:**
+   ```sh
+   npm install
+3. **Run the Development Server:**
+   ```sh
+   npm run dev
+4. **Access the App: Open your browser at:**
+   
